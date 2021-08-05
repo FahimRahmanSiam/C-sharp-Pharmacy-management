@@ -1,0 +1,83 @@
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Pharmacy management.exe.config
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Pharmacy management.exe
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Pharmacy management.pdb
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.Licensing.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy management.csproj.AssemblyReference.cache
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy_management.Form1.resources
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy management.csproj.GenerateResource.cache
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy management.exe.licenses
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy management.csproj.CoreCompileInputs.cache
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy management.csproj.CopyComplete
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy management.exe
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy management.pdb
+D:\C#\projects\management system\Pharmacy management\bin\Debug\Guna.UI2.dll
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy_management.loginForm.resources
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy_management.MedicineStock.resources
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy_management.empInformation.resources
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy_management.companyInfo.resources
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy_management.billing.resources
+D:\C#\projects\management system\Pharmacy management\obj\Debug\Pharmacy_management.Home.resources
